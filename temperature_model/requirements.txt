@@ -1,0 +1,8 @@
+numpy
+scipy
+pillow
+matplotlib
+folium
+flask
+flask-cors
+requests

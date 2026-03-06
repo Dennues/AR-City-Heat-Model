@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+shapely
+pyproj
+pillow
+requests
+tqdm

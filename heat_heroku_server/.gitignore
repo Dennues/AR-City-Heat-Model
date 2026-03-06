@@ -1,0 +1,47 @@
+**/node_modules
+assets/
+unneeded/
+# VS Code workspace files
+*.code-workspace
+
+# System files
+Thumbs.db
+
+# Build outputs
+build/
+dist/
+
+# Logs
+*.log
+
+# Node modules
+node_modules/
+src/generated/
+dist/
+include/draco/
+include/ktx2/
+include/three/
+include/console/
+include/three-mesh-ui-assets/
+include/fonts/
+build.log
+.DS_Store
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+
+# Temporary generated files (cleared on Heroku deploy)
+tmp/
+/tmp/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
