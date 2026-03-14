@@ -131,8 +131,3 @@ python CityGML2OBJs.py -i <abs_path_to_flattened_citygml_folder> -o <abs_path_to
 6. Finally, you can drag the building objects somewhere under `Assets` in the Unity project and then drag them into the scene.
 7. Scaling it to `0.01` and setting rotation around the X axis to `-90` should make it visible.
 8. Now you can work with these building tiles as you wish. Alignment with the 2D map and other building tiles was done by hand.
-
-
-## Further Documentation
-
-For further documentation visit our [Wiki](https://github.com/Dennues/AR-City-Heat-Model/wiki).
