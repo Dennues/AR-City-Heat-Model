@@ -1,6 +1,11 @@
 # AR City Heat Model
 
+This application aims to inform users as intuitively as possible about places to cool off and places to avoid in the summer heat (similar to Erfrischungskarte).
 
+## Documentation
+
+Full documentation is available in the [Wiki](https://github.com/Dennues/AR-City-Heat-Model/wiki).  
+Currently, most content is on a single page and will be reorganized into multiple pages in a future update.
 
 ## Setup and Requirements
 
