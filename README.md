@@ -9,7 +9,7 @@
 **Clone the project (this may take some time):**
 
 ```bash
-git clone https://git.imp.fu-berlin.de/fu7128ry/ar-city-heat-model.git
+git clone https://github.com/Dennues/AR-City-Heat-Model/
 ```
 
 ## Setup the Unity project 
@@ -132,4 +132,4 @@ python CityGML2OBJs.py -i <abs_path_to_flattened_citygml_folder> -o <abs_path_to
 
 ## Further Documentation
 
-For further documentation visit our [Wiki](https://git.imp.fu-berlin.de/fu7128ry/ar-city-heat-model/-/wikis/home).
+For further documentation visit our [Wiki](https://github.com/Dennues/AR-City-Heat-Model/wiki).
