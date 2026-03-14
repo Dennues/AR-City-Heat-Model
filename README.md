@@ -4,8 +4,6 @@
 
 ## Setup and Requirements
 
-- Git
-
 **Clone the project (this may take some time):**
 
 ```bash
